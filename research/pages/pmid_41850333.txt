@@ -1,0 +1,15 @@
+Title: Direct gambling marketing, direct harm: A randomised experiment.
+Journal: Addiction
+Published: 2026 Jul 
+Publication types: Journal Article; Randomized Controlled Trial
+URL: https://pubmed.ncbi.nlm.nih.gov/41850333/
+
+ABSTRACT
+BACKGROUND AND AIMS: Whether gambling marketing has a causal effect on harm is of regulatory interest. Direct marketing offers (emails, push notifications and text messages) are frequently received by people with active gambling accounts, but they can opt out. This study aimed to test whether opting out of direct marketing reduces betting and short-term gambling harms in a real-world gambling environment.
+DESIGN: Stratified randomised field experiment with a between-participants design, embedded in a 14-day ecological momentary assessment (EMA).
+SETTING: Nationwide, Australia (July-August 2023).
+PARTICIPANTS: Participants (n = 227; 61.7% men; mean age = 45), 52.0% of whom scored in the moderate-risk or problem range on the Problem Gambling Severity Index (PGSI), were regular Australian sports and race bettors recruited from online panels who agreed in principle to opt out of receiving direct marketing from all wagering operators with whom they held accounts.
+INTERVENTION: Participants were stratified by PGSI risk category, age group and gender and then randomly allocated either to an opt-out condition (n = 96), in which they opted out of direct marketing from their wagering operators and provided proof, or to a control condition (n = 131) that continued to receive direct marketing as usual.
+MEASUREMENTS: Seven EMA surveys were administered every 48 hours over a 14-day period during a high-volume betting season. Outcomes were self-reported number of bets placed, gambling expenditure (in Australian dollars, AUD) and short-term gambling harms in the previous 48 hours, assessed with a 10-item adapted Short Gambling Harm Screen (SGHS).
+FINDINGS: The opt-out group placed 23% fewer bets [B = -0.11, 95% confidence interval (CI) = -0.20, -0.03, P = 0.011], spent 39% less money (B = -0.53, 95% CI = -0.84, -0.21, P = 0.001) and reported 67% fewer short-term gambling harms (B = -0.22, 95% CI = -0.36, -0.07, P = 0.004) compared with the controls.
+CONCLUSIONS: Opting out of receiving direct marketing from wagering operators appears to be associated with statistically significantly fewer bets made, amount spent gambling and short-term gambling harms.

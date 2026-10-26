@@ -1,0 +1,12 @@
+Title: Crataegus oxyacantha Extract Enhances Cardiac Adaptation and Reduces Oxidative-Inflammatory Stress in Broiler Chickens Raised at High Altitude Under Cold Stress.
+Journal: Vet Med Sci
+Published: 2026 Jul 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42295739/
+
+ABSTRACT
+BACKGROUND: Cold stress and high-altitude hypoxia cause pulmonary hypertension syndrome (PHS) in broilers via cardiac overload, oxidative-inflammatory stress, and ET-1/NO imbalance.
+OBJECTIVES: This study examined whether hawthorn (Crataegus oxyacantha) extract could mitigate these effects.
+METHODS: In this study, 225 one-day-old Ross 308 broilers reared at an altitude of 2100 m under cold stress were divided into three groups receiving 0, 0.2, or 0.4 mL/L hawthorn extract in drinking water. Feed intake and body weight were recorded weekly to calculate weight gain and feed conversion ratio. On day 42, cardiac performance, blood biomarkers (NO, haematocrit, heterophil-to-lymphocyte ratio), electrocardiogram (ECG) parameters, serum antioxidant enzyme activities (superoxide dismutase [SOD] and glutathione peroxidase [GPx]), and cardiac gene expression of ET-1 and inducible NO synthase (iNOS) were evaluated.
+RESULTS: Hawthorn extract (0.4 mL/L) increased NO by 57.1%, SOD activity by 16.4%, and GPx activity by 20.6% and decreased haematocrit by 13.1%, heterophil-to-lymphocyte ratio by 26.6%, and heterophil counts by 17.4% (p < 0.05). Feed intake was unchanged (p > 0.05), but weight gain and feed conversion ratio improved dose-dependently, with maximal efficiency at 0.4 mL/L (p < 0.05). Cardiac hypertrophy (heart weight by 25.0%, right ventricular [RV] weights by 36.9%, and RV: total ventricular ratio by 30%) and ECG amplitudes (R wave by 23.1%, S wave by 31.2% in Lead II) were reduced (p < 0.05), accompanied by cardiac iNOS upregulation (212.5-fold) and ET-1 downregulation by 0.27-fold at 0.4 mL/L (p < 0.05). NO correlated inversely with ET-1 expression, hypertrophy markers, and ECG parameters (p < 0.05).
+CONCLUSIONS: Hawthorn extract (0.4 mL/L) enhanced cardiovascular adaptation and growth performance in cold-stressed, hypoxic broilers by modulating NO/ET-1 pathways, reducing oxidative stress, and improving cardiac function, supporting its use as a natural intervention to reduce PHS and improve poultry health.

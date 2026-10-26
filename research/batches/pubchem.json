@@ -1,0 +1,121 @@
+{
+ "vitexin": {
+  "formula": "C21H20O10",
+  "mw": "432.4",
+  "cid": 5280441,
+  "ledger_id": "70",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_vitexin.json"
+ },
+ "hyperoside": {
+  "formula": "C21H20O12",
+  "mw": "464.4",
+  "cid": 5281643,
+  "ledger_id": "71",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_hyperoside.json"
+ },
+ "quercetin": {
+  "formula": "C15H10O7",
+  "mw": "302.23",
+  "cid": 5280343,
+  "ledger_id": "72",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_quercetin.json"
+ },
+ "isorhamnetin": {
+  "formula": "C16H12O7",
+  "mw": "316.26",
+  "cid": 5281654,
+  "ledger_id": "73",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_isorhamnetin.json"
+ },
+ "tamarixetin": {
+  "formula": "C16H12O7",
+  "mw": "316.26",
+  "cid": 5281699,
+  "ledger_id": "74",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_tamarixetin.json"
+ },
+ "epicatechin": {
+  "formula": "C15H14O6",
+  "mw": "290.27",
+  "cid": 72276,
+  "ledger_id": "75",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_epicatechin.json"
+ },
+ "catechin": {
+  "formula": "C15H14O6",
+  "mw": "290.27",
+  "cid": 9064,
+  "ledger_id": "76",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_catechin.json"
+ },
+ "procyanidin B2": {
+  "formula": "C30H26O12",
+  "mw": "578.5",
+  "cid": 122738,
+  "ledger_id": "77",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_procyanidin_b2.json"
+ },
+ "procyanidin C1": {
+  "formula": "C45H38O18",
+  "mw": "866.8",
+  "cid": 169853,
+  "ledger_id": "78",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_procyanidin_c1.json"
+ },
+ "leucocyanidin": {
+  "formula": "C15H14O7",
+  "mw": "306.27",
+  "cid": 71629,
+  "ledger_id": "79",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_leucocyanidin.json"
+ },
+ "ursolic acid": {
+  "formula": "C30H48O3",
+  "mw": "456.7",
+  "cid": 64945,
+  "ledger_id": "80",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_ursolic_acid.json"
+ },
+ "maslinic acid": {
+  "formula": "C30H48O4",
+  "mw": "472.7",
+  "cid": 73659,
+  "ledger_id": "81",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_maslinic_acid.json"
+ },
+ "chlorogenic acid": {
+  "formula": "C16H18O9",
+  "mw": "354.31",
+  "cid": 1794427,
+  "ledger_id": "82",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_chlorogenic_acid.json"
+ },
+ "ellagic acid": {
+  "formula": "C14H6O8",
+  "mw": "302.19",
+  "cid": 5281855,
+  "ledger_id": "83",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_ellagic_acid.json"
+ },
+ "rutin": {
+  "formula": "C27H30O16",
+  "mw": "610.5",
+  "cid": 5280805,
+  "ledger_id": "84",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_rutin.json"
+ },
+ "Cyanidin 3-O-arabinoside": {
+  "formula": "C20H19O10+",
+  "mw": "419.4",
+  "cid": 12137509,
+  "ledger_id": "85",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_cyanidin_3_o_arabinoside.json"
+ },
+ "lucenin-2": {
+  "formula": "C27H30O16",
+  "mw": "610.5",
+  "cid": 442615,
+  "ledger_id": "86",
+  "file": "/home/walker/projects/hawthorn-research/research/pages/pubchem_lucenin_2.json"
+ }
+}

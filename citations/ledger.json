@@ -1,0 +1,951 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42277690",
+      "title": "Efficacy of plant extracts in heart failure patients: a systematic review and network meta-analysis.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "A total of 28 studies involving 3,650 heart failure patients were included.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521227",
+      "title": "Does vitamin D supplementation modulate metabolic risk factors of cardiovascular disease? A systematic review and meta-a",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 3,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41161295",
+      "title": "Randomized Controlled Trial on the Impact of Befriending on Depression, Anxiety, Loneliness, and Social Support in Older",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 4,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41194549",
+      "title": "Effects of a Scutellaria baicalensis/Crataegus laevigata, magnesium and chromium supplement on stressed individuals: A r",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Chronic supplementation improved mood and anxiety, reducing total mood disturbance, anger/hostility, and Trait anxiety scores.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42108331",
+      "title": "The impact of automated insulin delivery on glucose management in people with diabetes and advanced chronic kidney disea",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 6,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694165",
+      "title": "The effect of hawthorn vinegar, black mulberry syrup, and green tea on oral mucositis and oral health-related quality of",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Patients in the hawthorn vinegar group showed a decrease in oral mucositis and an increase in oral health-related quality of life at the interim measurement (day 7) and final test (day 14) measurements (p < 0.05).",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41693032",
+      "title": "Safety and Tolerability of Multimodal Therapy (Ivermectin, Doxycycline, Vitamin C, Vitamin D, and Zinc) With or Without",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 8,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41367255",
+      "title": "Evaluating the Sustaining Play, Sustaining Health programme in Australian early childhood education and care services: a",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 9,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41719424",
+      "title": "Evaluating the effects of the World Health Organisation's online intervention 'iSupport lite' to reduce burden in multil",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 10,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42356723",
+      "title": "The Effects of Short-Term Post-Exposure to 3.6 GHz 5G Mobile Phone Electromagnetic Exposure on Static and Dynamic Postur",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 11,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42473213",
+      "title": "Hawthorn (Crataegus Species): Phytochemical Insights and Cardiotonic Mechanisms in Cardiovascular Health- A Comprehensiv",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "particularly flavonoids and oligomeric proanthocyanidins, which exhibit vasodilatory, antioxidant, mild positive inotropic, and antiarrhythmic properties.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661384",
+      "title": "A Comprehensive Review on Cardioprotective Biological Properties of Crataegus orientalis in Post-COVID-19 Pandemic Cardi",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "including antioxidant, anti-inflammatory, hypolipidemic, antihyperglycemic, antihypertensive, anticoagulant, anti-ischemic, diuretic, and cardiotonic properties",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40232171",
+      "title": "Innovative findings on three endemic Crataegus spp. from Türkiye: flavonoid-enriched extracts with cardiovascular benefi",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Notably, C. peshmenii leaf extract was the richest in compounds linked to cardiovascular benefits, including vitexin and hyperoside.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41211943",
+      "title": "A Phase 2 Trial of Tobevibart plus Elebsiran in Hepatitis D.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 15,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41652755",
+      "title": "Procyanidin C1 from hawthorn modulates metabolic-inflammatory axis to combat vascular senescence in atherosclerosis.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "identified heat shock protein 90 (HSP90) as a direct target of PCC1",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42255677",
+      "title": "Antihyperuricemic Effect of Hawthorn Flavonoid Vitexin: LC-MS Analysis, Network Pharmacology, and In Vivo Verification o",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Vitexin treatment effectively reduced serum uric acid by inhibiting hepatic XOD and ADA activities",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42300918",
+      "title": "The hawthorn (Crataegus pinnatifida) procyanidin extract attenuates nonalcoholic fatty liver disease in mice via remodel",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "HPC downregulated the expression of lipid synthesis protein SREBP1 by activating the hepatic FXR and CYP7A1 expressions",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41302433",
+      "title": "Phenolic Profile and Antioxidant Activity of Fractions of Procyanidin-Rich Hawthorn (Crataegus monogyna Jacq.) Bark Extr",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Fraction II was almost pure procyanidin B2, which accounted for 88.8% of the total phenolics.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41517214",
+      "title": "The Hawthorn (Crataegus spp.) Value Chain: An Integrated Analysis of Resource Availability, Phytochemical Characterizati",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "By systematically integrating research findings into a comprehensive \"resource-characterization-application\" framework",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41961344",
+      "title": "The swift study: dietary profiles of night shift workers characterised by overweight and obesity.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 21,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42034469",
+      "title": "Corrigendum to \"Hawthorn leaf flavonoids alleviate the deterioration of atherosclerosis by inhibiting SCAP-SREBP2-LDLR p",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 22,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42141147",
+      "title": "Ultrasound-Assisted Extraction of Free and Bound Phenolics from Hawthorn (Crataegus azarolus) Leaves and their Antioxida",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "the free phenolic content reached 78.61 mg GAE g- 1 dry weight (DW)",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42361089",
+      "title": "Harnessing hawthorn (Crataegus spp.) for cardiovascular health: a timely shift toward phytotherapy.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 24,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42559186",
+      "title": "Bioaccessibility of Phytochemicals, Amino Acids, Antioxidant Capacity, and Enzyme Inhibitory Activities of Hawthorn (Cra",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Catechin was the predominant phenolic compound in all Crataegus species before digestion",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42595105",
+      "title": "Polydatin in combination with hawthorn flavonoids alleviates atherosclerosis by inhibiting mitochondrial division throug",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "reducing atherosclerotic lesion burden by 44.8%, 49.29%, and 72.99% at low, medium, and high doses, respectively",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42792188",
+      "title": "Phytochemical Investigation of Crataegus almaatensis Leaves: Isolation, Structural Characterization, and Antioxidant Act",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "(-)-epicatechin, cinchonain Ia, a methoxy- and hydroxy-substituted diaryl ether β-D-glucopyranoside, kakispyrol",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39370978",
+      "title": "Phytochemical investigation and spectral characterization of isolated compounds from Pyracantha crenulata (D. Don) M. Ro",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 28,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41369516",
+      "title": "Hyperoside, a dietary flavonoid, protects against endometritis via gut microbiota-dependent production of hydroxyphenyll",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "hyperoside could alleviate E. coli-induced endometritis in mice through a gut-uterus axis mechanism",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41424781",
+      "title": "A food-medicine homology formulation ameliorates atherosclerosis by attenuating dyslipidemia and inflammation via the PI",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Integrated analyses revealed kaempferol, isorhamnetin, and quercetin as central bioactive molecules acting on AKT1",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41504733",
+      "title": "[Methodological aspects of determining flavonoids in food products with cardioprotective potential – a review of HPLC co",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "These compounds are primarily sourced from fruits such as chokeberry, blackcurrant, apples, hawthorn, lemons, and red grapes.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41598329",
+      "title": "Medicinal Plants and Phytochemicals in Cardioprotection-Mechanistic Pathways and Translational Roadmap.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Priorities include standardized, chemotype-controlled formulations with PK/PD-guided dosing and adequately powered randomized trials",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41897495",
+      "title": "Bromatological Profile of Fruits from Sorbus aucuparia and Crataegus monogyna: Polyphenol Bioaccessibility and Inhibitor",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "ellagic acid reaching ~96% in the intestinal phase of rowanberry fruits and ~109% in hawthorn fruits",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42054581",
+      "title": "A novel flavonoid from leaves of Crataegus pinnatifida Bge. var. major and its anti-inflammatory activity.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "the compound exhibited a significant inhibitory effect on IL-1β production at a concentration of 20 μM.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42280163",
+      "title": "Comparative Metabolomic and Transcriptomic Analyses Identify Candidate Genes Associated with Flavonoid Accumulation and",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Large-fruited hawthorn (Malus doumeri (Bois) Chev.) is valued for its health-promoting properties",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42356474",
+      "title": "Bioactive Constituents, Mechanisms, and Complementary Therapeutic Applications of Food-Medicine Continuum Materia Medica",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "ten FMC materia medica: hawthorn fruit (Crataegus Fructus)",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894930",
+      "title": "Molecular mechanism of total flavonoids of hawthorn leaves in spinal cord injury treatment: A combined network pharmacol",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Network pharmacology analysis identified 15 active compounds and 69 overlapping therapeutic targets",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41052502",
+      "title": "Structural characterization, in vitro antioxidant and lipid-lowering activities of purified polysaccharides from hawthor",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "HLP-1's hypolipidemic effect was linked to suppression of the SREBP-1c pathway",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41102970",
+      "title": "The cost of a Mediterranean Diet and walking intervention to reduce risk of dementia and improve quality of life in inde",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 39,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41283271",
+      "title": "Telerehabilitation and Face-to-Face Exergame Delivery Modalities to Improve Postural Control in Older Adults: A Randomis",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 40,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41338509",
+      "title": "Recent advances in hawthorn (Crataegus L.) polysaccharides for prevention and treatment of non-alcoholic fatty liver dis",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "emerging evidence suggests that hawthorn polysaccharides also possess significant hypolipidemic properties",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41599280",
+      "title": "Hawthorn (Crataegus monogyna Jacq.): A Review of Therapeutic Potential and Applications.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "further clinical trials and standardization of bioactive components are needed to confirm its efficacy, safety, and optimal dosage",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41643173",
+      "title": "Phytochemical Composition and Multi-Target Biological Activities of Crataegus monogyna: LC-MS/MS, DFT, and Molecular Doc",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "The highest total phenolic (80.92 mg GAE/g) and flavonoid content (51.94 mg RE/g) was observed with the ethanol extract.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41708741",
+      "title": "The effect of daily aerobic cycling exercise on cannabis withdrawal: An inpatient randomised controlled trial.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 44,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41850333",
+      "title": "Direct gambling marketing, direct harm: A randomised experiment.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 45,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41889722",
+      "title": "Regulatory effects of hawthorn on lipid metabolic homeostasis: mechanisms, evidences, and perspectives.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "hawthorn improves lipid metabolic homeostasis through multiple mechanisms, including suppression of hepatic lipogenesis, enhancement of fatty acid β-oxidation",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42077781",
+      "title": "Gut-liver axis mediates the ameliorative effects of North Hawthorn polysaccharide on liver inflammation and oxidative st",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "NHP administration restored gut microbial diversity and increased the abundance of beneficial bacteria, including Lactobacillus, Bifidobacterium, and Akkermansia muciniphila",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42295739",
+      "title": "Crataegus oxyacantha Extract Enhances Cardiac Adaptation and Reduces Oxidative-Inflammatory Stress in Broiler Chickens R",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Hawthorn extract (0.4 mL/L) increased NO by 57.1%, SOD activity by 16.4%, and GPx activity by 20.6%",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42488216",
+      "title": "Machine learning-assisted optimization of ultrasound-ohmic processing of hawthorn vinegar: antidiabetic activity, phenol",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "ultrasound-ohmic (USOH) processing conditions were optimized using a hybrid machine-learning-based approach to maximize the α-glucosidase and α-amylase and inhibitory activities of hawthorn vinegar.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42634323",
+      "title": "Total Flavonoids from Hawthorn Leaves Alleviate Acute Inflammatory Responses Following Spinal Cord Injury by Downregulat",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "it significantly inhibited TLR4 complex formation, suppressed NF-κB nuclear translocation, and reduced IL-1β, IL-6, and TNF-α mRNA expression",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42739450",
+      "title": "Polyphenolic Characterization, Antioxidant and Antihyperglycemic Activities of Crataegus spp. Fruit Extracts.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Total polyphenol quantification indicated that, among the tested extracts, Crataegus laciniata exhibited the highest content (25.54 mg GAE/g).",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42795343",
+      "title": "Crataegus Species as a Source of Geroprotective Phytochemicals: Biological Activities, Molecular Mechanisms and Therapeu",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "modulating oxidative stress, chronic low-grade inflammation (inflammaging), mitochondrial dysfunction, cellular senescence",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40997991",
+      "title": "Targeting the NLRP3 Inflammasome-Gasdermin D Axis to Combat Cardiovascular Diseases.",
+      "accessed": "2026-10-25"
+    },
+    {
+      "id": 53,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41431296",
+      "title": "Research Progress on The Chemical Composition And Pharmacological Effects of Hawthron (Crataegus spp.): A Review.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "contains abundant bioactive compounds such as flavonoids, triterpenoids, organic acids, and polysaccharides",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41794075",
+      "title": "Detection of active vasodilatory compounds from hawthorn: Screening and determination of mechanism of action.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Isorhamnetin and tamarixetin induced vasodilatation of porcine coronary arteries (EC50 values were 21.7 and 30.9 μM, respectively)",
+          "added": "2026-10-25"
+        },
+        {
+          "text": "These values are higher than the typical human plasma levels (from tens to low hundreds of nM).",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41744261",
+      "title": "Hawthorn fruit extracts alleviate high-fat diet-induced NAFLD by inhibiting ERK and regulating hepatic purine metabolism",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "A total of 17 primary compounds were identified in HFE.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42215098",
+      "title": "Enhancement of ursolic acid (UA), an active ingredient in hawthorn, on the uptake and metabolism of 2,3,5,4'-tetrahydrox",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "UA facilitated intestinal absorption by downregulating the intestinal efflux transporter Multidrug resistance-associated protein 2 (MRP2), while concurrently upregulating hepatic UGT1A1 expression",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41875453",
+      "title": "Crataegus mexicana root-based supplement intoxication in a woman with weight loss persistent preoccupation: Case report.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "This case reports a rare instance of acute diarrhea resulting from the unsupervised use of a Crataegus mexicana root-based supplement",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42163902",
+      "title": "High-intensity interval training and Crataegus pentagyna extract enhance metabolic and oxidant profiles in ovariectomize",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Co-treatment with HIIT and CPE (100 mg/kg) produced greater reductions in visceral fat (-72.8%) than HIIT alone (-33.7%)",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41855569",
+      "title": "Chromatographic analysis of Crataegus azarolus and possible psychiatric implications.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "GC-MS tentatively identified 13 major compounds, including flavonoids, fatty acids, sterols, vitamin D derivatives, and digitoxin.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41569292",
+      "title": "Inhibition of Hawthorn Leaf Condensed Tannins on α-Glucosidase and Nonenzymatic Glycosylation: Molecular Mechanisms of A",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "HLCTs were effective inhibitors of α-glucosidase with an IC50 of 8.0 ± 1.1 μg",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40220858",
+      "title": "Integrated genomic and transcriptomic analyses reveal the genetic and molecular mechanisms underlying hawthorn peel colo",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "The assembled genomes comprising 17 chromosomes are 809.1 Mb and 760.5 Mb in size",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40078042",
+      "title": "Quality control and spectrum-effect relationship of Crataegus pinnatifida polysaccharide from different habitats.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "components with a molecular weight (Mw) ranging from 2.07 × 106 Da to 5.57 × 106 Da have a positive correlation with scavenging DPPH free radicals.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41338313",
+      "title": "Hawthorn juice transforms notoginseng stem-leaf saponins: Synergistically regulates blood viscosity and ameliorates glyc",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "SSZ could enhance the synergistic effect, alleviate liver injury, significantly improve the metabolic parameters of glucose and lipids, and adjust blood viscosity",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42305060",
+      "title": "Cyanidin-3-O-arabinoside improves high-fat diet-induced glucose and lipid metabolism disorder in mice by restoring fatty",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "The peel of Malus doumeri (Big Fruit Hawthorn) is rich in Cyanidin-3-O-arabinoside (C3A)",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41077282",
+      "title": "Genome-wide identification of the MYB family in Crataegus pinnatifida and functional analysis of CpMYB5 involved in proa",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "CpMYB5 interacts with the promoters of CpANR and CpLAR, which are key genes in the PA biosynthetic pathway",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42440624",
+      "title": "Preventive Effects of Crataegus monogyna Fruit Extract on Oxidative Damage and Inflammatory Response in a Rat Model of A",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "CMFE pretreatment significantly reduced macroscopic and microscopic damage, protecting the colonic mucosa from AA-induced lesions",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42121468",
+      "title": "Hawthorn Polysaccharides Relieve High-Fat Blood Disease in Mice by Improving Intestinal Flora and Promoting Lipid Metabo",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "the hawthorn polysaccharide intervention significantly increased HDL-C levels and decreased LDL-C levels in the HA group mice",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661862",
+      "title": "Effects of species, production area and processing methods on chemical composition and antioxidant activity of hawthorn.",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "A total of 117 components were identified, spanning 7 major chemical classes, with phenolic acids and flavonoids the predominant constituents.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41365192",
+      "title": "Novel dual AMPK/NRF2 activation by leucocyanidin from Hawthorn (Crataegus) for mitochondria repair-Targeted therapy of h",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "Through direct allosteric binding to AMPK, Leuc suppressed fatty acid uptake, inhibited lipogenesis, and enhanced mitochondrial fatty acid transport.",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/vitexin/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: vitexin",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C21H20O10\", \"MolecularWeight\": \"432.4\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/hyperoside/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: hyperoside",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C21H20O12\", \"MolecularWeight\": \"464.4\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/quercetin/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: quercetin",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C15H10O7\", \"MolecularWeight\": \"302.23\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/isorhamnetin/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: isorhamnetin",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C16H12O7\", \"MolecularWeight\": \"316.26\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tamarixetin/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: tamarixetin",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C16H12O7\", \"MolecularWeight\": \"316.26\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/epicatechin/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: epicatechin",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C15H14O6\", \"MolecularWeight\": \"290.27\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/catechin/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: catechin",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C15H14O6\", \"MolecularWeight\": \"290.27\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/procyanidin%20B2/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: procyanidin B2",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C30H26O12\", \"MolecularWeight\": \"578.5\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/procyanidin%20C1/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: procyanidin C1",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C45H38O18\", \"MolecularWeight\": \"866.8\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/leucocyanidin/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: leucocyanidin",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C15H14O7\", \"MolecularWeight\": \"306.27\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ursolic%20acid/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: ursolic acid",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C30H48O3\", \"MolecularWeight\": \"456.7\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/maslinic%20acid/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: maslinic acid",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C30H48O4\", \"MolecularWeight\": \"472.7\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/chlorogenic%20acid/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: chlorogenic acid",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C16H18O9\", \"MolecularWeight\": \"354.31\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ellagic%20acid/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: ellagic acid",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C14H6O8\", \"MolecularWeight\": \"302.19\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/rutin/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: rutin",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C27H30O16\", \"MolecularWeight\": \"610.5\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Cyanidin%203-O-arabinoside/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: Cyanidin 3-O-arabinoside",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C20H19O10+\", \"MolecularWeight\": \"419.4\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/lucenin-2/property/MolecularFormula,MolecularWeight/JSON",
+      "title": "PubChem: lucenin-2",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"MolecularFormula\": \"C27H30O16\", \"MolecularWeight\": \"610.5\"",
+          "added": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "url": "https://clinicaltrials.gov/api/v2/studies?query.intr=%28Crataegus%20OR%20hawthorn%29&fields=NCTId%2CBriefTitle%2COverallStatus%2CStudyType%2CStartDate%2CEnrollmentCount&pageSize=100",
+      "title": "ClinicalTrials.gov API v2: interventional trials, Crataegus OR hawthorn",
+      "accessed": "2026-10-25",
+      "quotes": [
+        {
+          "text": "\"nct\": \"NCT07166965\", \"title\": \"Ketone and Hawthorn Extract Supplementation in Congestive Heart Failure\", \"status\": \"ENROLLING_BY_INVITATION\"",
+          "added": "2026-10-25"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Title: The hawthorn (Crataegus pinnatifida) procyanidin extract attenuates nonalcoholic fatty liver disease in mice via remodeling the bile acid profile driven by gut microbiota and regulating the FXR pathway.
+Journal: Food Funct
+Published: 2026 Jul 06
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42300918/
+
+ABSTRACT
+Hawthorn procyanidin extract (HPC) is one of natural plant-derived polyphenols with lipid-lowering and liver-protective properties, while its therapeutic mechanisms against nonalcoholic fatty liver disease (NAFLD) require further clarification. A high-fat diet (HFD)-induced NAFLD mouse model and oleic acid (OA)-induced HepG2 cells were utilized to conduct this study. We first found that HPC intervention ameliorated lipid accumulation in HepG2 cells, which was confirmed to depend on FXR signaling using an FXR inhibitior. In addition, HPC significantly relieved NAFLD in vivo by lowering the levels of TC, TG, and LDL-C and preventing the excessive accumulation of lipid droplets and hepatic steatosis. Besides, HPC intervention restored BA homeostasis (in the liver and gut) by markedly altering the profiles of primary versus secondary and conjugated versus unconjugated BAs (ωMCA, TαMCA, TβMCA, and DCA), which was related to the restoration of the HFD-induced dysbiosis. Mechanistically, HPC downregulated the expression of lipid synthesis protein SREBP1 by activating the hepatic FXR and CYP7A1 expressions, attributed to the controlling of the enterohepatic circulation mediated by the FXR-FGF15 pathway. Taken together, these findings substantiate that HPC exerts its ameliorative effect on NAFLD by modulating BA metabolism in NAFLD mice.

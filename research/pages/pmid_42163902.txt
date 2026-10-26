@@ -1,0 +1,11 @@
+Title: High-intensity interval training and Crataegus pentagyna extract enhance metabolic and oxidant profiles in ovariectomized Wistar rats.
+Journal: Res Pharm Sci
+Published: 2026 Apr 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42163902/
+
+ABSTRACT
+BACKGROUND AND PURPOSE: High-intensity interval training (HIIT) improves body composition in obese individuals but increases fat oxidation and oxidative stress. This study aimed to evaluate the effects of chronic supplementation with Crataegus pentagyna fruit extract (CPE), combined with HIIT, on metabolic syndrome indices and oxidative stress.
+EXPERIMENTAL APPROACH: Female Wistar rats (200-220 g) were randomized into seven groups (8 rats each) including: ovariectomized control (Ovx + saline), exercise (Ovx + Exe), CPE alone (100, 200, 300 mg/kg), Ovx + CPE + Exe: HIIT plus CPE (100 mg/kg, i.p); and sham. . At the end of the training, body weight, body mass index, waist circumference, visceral fat, fasting blood glucose, serum insulin, lipid profiles, MDA, TAC, Nrf2, and adiponectin were measured. The phytochemical contents were evaluated.
+FINDINGS/RESULTS: Co-treatment with HIIT and CPE (100 mg/kg) produced greater reductions in visceral fat (-72.8%) than HIIT alone (-33.7%) and comparable reductions to CPE alone (-65.5% visceral fat, -20.3% waist circumference), with no dose-dependent effects across 100-300 mg/kg (P > 0.05).
+CONCLUSION AND IMPLICATIONS: Combined HIIT and 100 mg/kg CPE extract supplementation for 8 weeks significantly ameliorated metabolic syndrome and oxidative stress in ovariectomized rats, likely via adiponectin and Nrf2 upregulation, suggesting a potential adjunctive therapy for postmenopausal women.

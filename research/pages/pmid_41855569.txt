@@ -1,0 +1,11 @@
+Title: Chromatographic analysis of Crataegus azarolus and possible psychiatric implications.
+Journal: J Complement Integr Med
+Published: 2026 Mar 20
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41855569/
+
+ABSTRACT
+BACKGROUND: Crataegus azarolus (hawthorn) is a medicinal plant traditionally used for various health benefits and culinary reasons, although its psychiatric effects remain poorly studied. This study aimed to assess the volatile chemical composition and ionic profile of C. azarolus, and to integrate these findings with a targeted review of the literature to propose potential psychiatric implications.
+METHODS: Methanolic extracts of dried flowers, leaves, and berries were analyzed by gas chromatography-mass spectrometry (GC-MS), with compounds identified using reference libraries. Ion chromatography (IC) with anion and cation columns was used to quantify inorganic ions, expressed as mg per 100 g dried material.
+RESULTS: GC-MS tentatively identified 13 major compounds, including flavonoids, fatty acids, sterols, vitamin D derivatives, and digitoxin. Many of these constituents have been suggested having anti-inflammatory, antioxidant, anxiolytic, and antidepressant-like activities in preclinical studies. Among the compounds, the flavonoids quercetin and lucenin-2 were particularly notable due to their proposed roles in central nervous system function, neuroprotection and possible psychiatric effects. IC analysis additionally revealed the presence of various inorganic ions, although their overall concentrations were low.
+CONCLUSIONS: The biochemical complexity of C. azarolus highlights its potential relevance for mental health, yet direct preclinical and clinical evidence remains lacking. Future investigations are needed to clarify its psychiatric applications.

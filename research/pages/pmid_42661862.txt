@@ -1,0 +1,9 @@
+Title: Effects of species, production area and processing methods on chemical composition and antioxidant activity of hawthorn.
+Journal: Food Sci Biotechnol
+Published: 2026 Aug 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42661862/
+
+ABSTRACT
+UNLABELLED: Hawthorn, a traditional cash crop and medicinal material widely cultivated in China, holds significant economic and therapeutic value. In the present research, 18 batches of hawthorn fruits from 11 different cities and 4 distinct species were collected and processed using 3 different drying methods. UHPLC-Q-Exactive orbitrap-MS was employed to comprehensively characterize the metabolites in 54 samples. A total of 117 components were identified, spanning 7 major chemical classes, with phenolic acids and flavonoids the predominant constituents. Multivariate statistical analyses, including principal component analysis (PCA) and orthogonal partial least squares-discriminant analysis (OPLS-DA), were performed to evaluate the influence of geographical origin, species and processing methods on metabolite variations. Additionally, antioxidant activity was assessed using the ABTS, SOD and MDA method, demonstrating the bioactivity of the extract. Notably, samples dried by vacuum freeze-drying exhibited the highest antioxidant activity. The present study provided metabolite profiles and assessment methods for different hawthorn extract, that could serve as a reference for future research and food development.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s10068-026-02238-1.

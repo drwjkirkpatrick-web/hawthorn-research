@@ -1,0 +1,8 @@
+Title: Recent advances in hawthorn (Crataegus L.) polysaccharides for prevention and treatment of non-alcoholic fatty liver disease (NAFLD): A review.
+Journal: Int J Biol Macromol
+Published: 2026 Jan 
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/41338509/
+
+ABSTRACT
+Hawthorn has a long history of use in traditional Chinese medicine (TCM) and has demonstrated effectiveness in treating hypolipidemia. Among the active compounds studied for hawthorn's hypolipidemic effects, small molecular compounds have been the focus of most research. However, emerging evidence suggests that hawthorn polysaccharides also possess significant hypolipidemic properties. These polysaccharides exert their protective and therapeutic effects on non-alcoholic fatty liver disease (NAFLD) through various mechanisms, including direct improvement of hepatic lipid metabolism and reduction of lipid accumulation, as well as indirect effects via antioxidant action that inhibits lipid peroxidation. Recent studies have also highlighted modulation of the gut-liver axis as a key pathway in the prevention and treatment of NAFLD. Alterations in the intestinal environment-through regulation of the gut microbiota, stimulation of short-chain fatty acid (SCFA) production, and alleviation of colitis-contribute to NAFLD amelioration. This article provides a comprehensive review of recent advances in the use of hawthorn polysaccharides for the prevention and treatment of NAFLD, offering valuable insights for future research.

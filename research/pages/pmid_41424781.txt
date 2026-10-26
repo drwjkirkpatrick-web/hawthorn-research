@@ -1,0 +1,11 @@
+Title: A food-medicine homology formulation ameliorates atherosclerosis by attenuating dyslipidemia and inflammation via the PI3K/Akt/NF-κB pathway.
+Journal: Front Pharmacol
+Published: 2025  
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41424781/
+
+ABSTRACT
+BACKGROUND: Atherosclerosis (AS), a chronic inflammatory condition of the vasculature, is a major contributor to cardiovascular morbidity. Yaoshi Tongyuan Tablet (YTT) is a food-medicine homology (FMH) formulation containing Panax Ginseng, Radix Puerariae, Sophora Japonica, Ginkgo Semen, Persicae Semen, Ziziphi Spinosae Semen, and Crataegus Pinnatifida, which shows promise for AS management; however, its mechanistic basis remains poorly defined. This study aims to explore the protective roles and mechanistic foundations of YTT in preventing and treating AS.
+METHODS: A combination of network pharmacology, ultra-performance liquid chromatography coupled with Q Exactive Orbitrap mass spectrometry (UPLC-QE-MS), and molecular docking was employed to predict potential bioactive compounds and their molecular targets. ApoE-/- mice on a high-fat diet were used to model AS and were treated with low (250 mg/kg), medium (500 mg/kg), and high (1,000 mg/kg) doses of YTT for 4 weeks. Therapeutic efficacy and underlying molecular mechanisms were evaluated through biochemical assays, histopathological analysis, and Western blotting.
+RESULTS: Integrated analyses revealed kaempferol, isorhamnetin, and quercetin as central bioactive molecules acting on AKT1, a key node within the PI3K/Akt signaling cascade. In vivo, YTT treatment markedly curbed weight gain, ameliorated dyslipidemia, reduced systemic inflammation, and diminished atherosclerotic plaque load, alongside promoting plaque stabilization. At the molecular level, YTT substantially inhibited activation of the PI3K/Akt axis and phosphorylation of NF-κB, leading to lowered secretion of pro-inflammatory cytokines.
+CONCLUSION: YTT ameliorates atherosclerosis by counteracting dyslipidemia and inflammation, primarily through modulation of the PI3K/Akt/NF-κB pathway. This study offers novel integrative insights into the anti-atherogenic properties of YTT and pinpoint crucial bioactive constituents worthy of further pharmacological investigation.

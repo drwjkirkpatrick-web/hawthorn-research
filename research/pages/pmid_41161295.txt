@@ -1,0 +1,12 @@
+Title: Randomized Controlled Trial on the Impact of Befriending on Depression, Anxiety, Loneliness, and Social Support in Older People in Aged Care.
+Journal: Clin Gerontol
+Published: 2026  
+Publication types: Journal Article; Randomized Controlled Trial; Pragmatic Clinical Trial
+URL: https://pubmed.ncbi.nlm.nih.gov/41161295/
+
+ABSTRACT
+OBJECTIVES: This study examined the impact of befriending on depression, anxiety, perceived social support and loneliness in older people living in residential aged care homes.
+METHODS: A pragmatic randomized controlled trial compared depressive symptoms (Geriatric Depression Scale-15), anxiety symptoms (Geriatric Anxiety Inventory), loneliness (UCLA loneliness scale), and perceived social support (Lubben Social Network Scale) measured at baseline, 8 weeks and 16 weeks post baseline for people randomized to receive either befriending or usual care. Trial registration ANZCTR N12619000676112.
+RESULTS: Among N = 345 participants, a significant reduction in depressive symptoms for people receiving befriending compared to the control group: 0.76 points lower on GDS at 8 weeks and 0.95 lower at 16 weeks (Cohen's d = -0.458). Loneliness (UCLA) was 2.39 units lower than the control group at 8 weeks and 2.71 units lower at 16 weeks (Cohen's d -0.481). There was no significant difference for anxiety symptoms or perceived social support.
+CONCLUSIONS: Befriending led to a small improvement in depressive symptoms and loneliness in older people living in residential aged care.
+CLINICAL IMPLICATIONS: The improvement in depressive symptoms and loneliness indicates that befriending may be a useful supplement to psychological services for those living in residential aged care.

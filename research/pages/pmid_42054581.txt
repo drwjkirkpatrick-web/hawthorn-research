@@ -1,0 +1,8 @@
+Title: A novel flavonoid from leaves of Crataegus pinnatifida Bge. var. major and its anti-inflammatory activity.
+Journal: Nat Prod Res
+Published: 2026 Apr 29
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42054581/
+
+ABSTRACT
+A previously unreported flavone glycoside was obtained from the leaves of Crataegus pinnatifida var. major. Its structure was determined through extensive spectroscopic characterisation, including NMR techniques, along with ESI-MS analysis. The compound was identified as 5,7-dihydroxy-6-(3,4,5-trihydroxy-6-(((3,4,5-trihydroxy-6-methyltetrahydro-2H-pyran-2-yl)oxy)methyl)tetrahydro-2H-pyran-2-yl)-2-(4-((3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxy)phenyl)-4H-chromen-4-one, named pinnatichromen. Furthermore, the anti-inflammatory activity of pinnatichromen was evaluated, and the compound exhibited a significant inhibitory effect on IL-1β production at a concentration of 20 μM.

@@ -1,0 +1,8 @@
+Title: Structural characterization, in vitro antioxidant and lipid-lowering activities of purified polysaccharides from hawthorn leaf.
+Journal: Carbohydr Res
+Published: 2025 Dec 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41052502/
+
+ABSTRACT
+This study investigates the structural features and lipid-regulating mechanisms of hawthorn leaf polysaccharides (HLPs). Three acidic polysaccharides (HLP-1, HLP-2, and HLP-3) were isolated from hawthorn leaves and characterized via high-performance gel permeation chromatography (HPGPC), ion chromatography (IC), methylation analysis, and nuclear magnetic resonance (NMR) spectroscopy. Structural analyses revealed their molecular weights were 10.19 kDa, 400.38 kDa, and 435.52 kDa, respectively, with primary composition of galacturonic acid, galactose, and rhamnose. The Congo red assay indicated potential ordered aggregation with molecular weight-dependent thermal stability. Among the three, HLP-1 demonstrated the most potent in vitro bioactivity, including superior antioxidant capacity; in HepG2 cells, it most effectively reduced TG, TC, and LDL-c levels and increased HDL-c, outperforming HLP-2 and HLP-3. Mechanistically, HLP-1's hypolipidemic effect was linked to suppression of the SREBP-1c pathway. Furthermore, this study establishes the structure-activity relationship between HLPs' structural properties and lipid-lowering effects, laying a foundation for future HLP-based therapeutic interventions in metabolic diseases.

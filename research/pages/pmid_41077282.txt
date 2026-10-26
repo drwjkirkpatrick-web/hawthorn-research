@@ -1,0 +1,8 @@
+Title: Genome-wide identification of the MYB family in Crataegus pinnatifida and functional analysis of CpMYB5 involved in proanthocyanidin biosynthesis.
+Journal: Plant Sci
+Published: 2026 Jan 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41077282/
+
+ABSTRACT
+Hawthorn (Crataegus pinnatifida) is valued for its nutritional and medicinal properties. Proanthocyanidins (PAs), the key medicinal components of hawthorn, are present at high concentrations. Members of the MYB transcription factor family have been widely reported to regulate PA biosynthesis. In this study, 215 MYB family members were identified and characterized through gene family analysis. Transcriptome analysis showed that CpMYB5 expression was positively correlated with PA content, identifying its gene product as a positive regulator of PA biosynthesis. CpMYB5 demonstrated localization to the nucleus. Yeast one-hybrid (Y1H) and dual-luciferase (Dual-LUC) assays revealed that CpMYB5 interacts with the promoters of CpANR and CpLAR, which are key genes in the PA biosynthetic pathway. Transient overexpression of CpMYB5 in apple peel increased PA accumulation, and stable expression of CpMYB5 in Nicotiana tabacum similarly promoted PA biosynthesis. In conclusion, this study demonstrated that CpMYB5 enhances PA biosynthesis in hawthorn; the findings provide new insights into the regulatory roles of MYB transcription factors.

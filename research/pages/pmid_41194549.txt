@@ -1,0 +1,12 @@
+Title: Effects of a Scutellaria baicalensis/Crataegus laevigata, magnesium and chromium supplement on stressed individuals: A randomised, double-blind, placebo-controlled, crossover trial.
+Journal: J Psychopharmacol
+Published: 2025 Dec 
+Publication types: Journal Article; Randomized Controlled Trial
+URL: https://pubmed.ncbi.nlm.nih.gov/41194549/
+
+ABSTRACT
+BACKGROUND: Chronic stress is prevalent in most societies, impairing cognition, mood, and social functioning. Research suggests that supplements containing extracts from Scutellaria baicalensis root and Crataegus laevigata fruits may offer support in this regard.
+AIMS: To investigate the acute and chronic effects of a S. baicalensis, C. laevigata, and magnesium/chromium containing herbal supplement on psychological well-being, cognition, and sleep in subjectively stressed but principally healthy adults.
+METHODS: Forty-three participants (35 analysed) aged 18-75 years received the herbal supplement and a placebo for 15 days. Psychological well-being, and sleep were measured after 7 and 15 days of treatment. Cognitive performance was evaluated following a bolus dose of two tablets and after 15 days, with and without an observed multitasking stressor.
+RESULTS: The herbal supplement significantly improved performance on a task of attention and working memory (as evidenced by a reduction in serial 3's subtraction errors) following an acute dose and improved working memory performance (an increase in the number of correct serial 7's subtraction) during the stressor, irrespective of dose. Cognitive effects were less consistent in the absence of the stressor. Chronic supplementation improved mood and anxiety, reducing total mood disturbance, anger/hostility, and Trait anxiety scores. A higher proportion of subjects experienced ⩾30% gains in social satisfaction scores after 7 days. No serious adverse effects were reported.
+CONCLUSIONS: The herbal supplement is safe and enhances mood, reduces subjective anxiety, and improves cognition under stress, though cognitive effects are variable without stress exposure.The study was registered on clinicaltrials.gov (identifier: NCT05757050).

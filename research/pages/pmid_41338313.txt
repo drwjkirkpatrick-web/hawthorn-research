@@ -1,0 +1,12 @@
+Title: Hawthorn juice transforms notoginseng stem-leaf saponins: Synergistically regulates blood viscosity and ameliorates glycolipid metabolic disorders.
+Journal: J Ethnopharmacol
+Published: 2026 Mar 01
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41338313/
+
+ABSTRACT
+ETHNOPHARMACOLOGICAL RELEVANCE: Panax notoginseng (Burkill) F.H. Chen, documented in the Compendium of Materia Medica, promotes blood circulation and removes stasis. Despite extensive research, the above-ground parts (stems and leaves) remain underutilized. The synergistic mechanism of the effects of hawthorn (Crataegus pinnatifida) juice (SZ) on Panax notoginseng stem-leaf extract (SQ) to regulate sugar and lipid metabolism has not been reported.
+AIM OF THE STUDY: To elucidate SZ's effects on SQ saponins and their synergistic mechanisms in glucose/lipid metabolism.
+MATERIALS AND METHODS: The optimum technological parameters of SSZ were determined using single-factor and orthogonal tests, and the effectiveness of SSZ in regulating glucose and lipid metabolism was investigated using a high-fat and high-sugar model. The main saponins were characterized using LC-MS/MS, the synergistic mechanism of rare saponins was analyzed using network pharmacology and molecular docking, and the Rb3 transformation pathway was analyzed using transformation kinetics.
+RESULTS: The results showed that SSZ could enhance the synergistic effect, alleviate liver injury, significantly improve the metabolic parameters of glucose and lipids, and adjust blood viscosity. Mechanistically, maslinic acid in SZ hydrolyzed protopanaxadiol saponins into active rare ginsenosides (S/R-Rg3, Rg5, and Rk1) through selective glycoside cleavage.
+CONCLUSION: This study solved the problems of the limited curative effect of monotherapy and difficulty in obtaining rare saponins with high activity, provided innovative strategies for functional food development, promoted the efficient utilization of aboveground resources of Panax notoginseng, and was very important for solving the global disorder of glucose and lipid metabolism and promoting the application of natural products.

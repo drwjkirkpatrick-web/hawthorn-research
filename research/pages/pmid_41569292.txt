@@ -1,0 +1,8 @@
+Title: Inhibition of Hawthorn Leaf Condensed Tannins on α-Glucosidase and Nonenzymatic Glycosylation: Molecular Mechanisms of Action.
+Journal: J Agric Food Chem
+Published: 2026 Feb 04
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41569292/
+
+ABSTRACT
+In this study, hawthorn leaf condensed tannins (HLCTs) were screened for their strong inhibition of both α-glucosidase and nonenzymatic glycosylation. MALDI-TOF MS and HPLC-ESI-MS first confirmed that HLCTs were mainly made up of procyanidins, accompanied by a small amount of propelargonidins and prodelphinidins. Enzymatic experiments demonstrated that HLCTs were effective inhibitors of α-glucosidase with an IC50 of 8.0 ± 1.1 μg mL-1. Inhibitory mechanism analyses showed that the combination of HLCTs to α-glucosidase was propelled by noncovalent interactions, which modified the polarity and hydrophobicity near tyrosine and tryptophan residues in the binding site and induced variation of the enzyme's secondary structure and conformation, leading to an inhibition of enzyme activity. In addition, HLCTs effectively inhibited nonenzymatic glycosylation by reducing glycosylation products, protein carbonylation, protein oxidation, and amyloid cross-β structures. These findings provided a scientific basis for the application of HLCTs as potential type 2 diabetes drugs.

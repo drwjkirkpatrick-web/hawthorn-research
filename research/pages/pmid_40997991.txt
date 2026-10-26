@@ -1,0 +1,8 @@
+Title: Targeting the NLRP3 Inflammasome-Gasdermin D Axis to Combat Cardiovascular Diseases.
+Journal: J Mol Cell Cardiol
+Published: 2025 Dec 
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/40997991/
+
+ABSTRACT
+Cardiovascular disease remains a leading global cause of mortality, with inflammation playing a crucial role in driving its pathology. Despite advancements in cardiovascular disease management, current treatment options primarily address risk factors and symptoms rather than underlying disease mechanisms. Among the key mechanistic drivers are the NLRP3 multiprotein inflammasome complexes of the innate immune system, which are activated in response to cellular stress or injury. One of the key downstream effectors of NLRP3 activation is gasdermin D, which forms pores in the plasma membrane to initiate pyroptotic cell death, leading to the release of pro-inflammatory cytokines. This review will highlight the role of NLRP3 inflammasome activation and gasdermin D-mediated pyroptosis in driving cardiovascular diseases, including atherosclerosis, myocardial infarction, ischemic stroke and diabetic cardiomyopathy. It will also identify recent innovative therapeutic approaches that target the NLRP3 inflammasome-gasdermin D axis, which are currently being evaluated in preclinical studies and clinical trials.

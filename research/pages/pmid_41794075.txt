@@ -1,0 +1,8 @@
+Title: Detection of active vasodilatory compounds from hawthorn: Screening and determination of mechanism of action.
+Journal: Fitoterapia
+Published: 2026 Apr 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41794075/
+
+ABSTRACT
+Hawthorn is known to reduce arterial blood pressure in humans, but the active component remains unidentified. The vasoactivity of twenty-one substances contained in hawthorn (flavonoids, glycosides, pentacyclic triterpenes) and absorbable metabolites (small phenolic acids) was tested on three types of isolated blood vessels from two species. Isorhamnetin and tamarixetin induced vasodilatation of porcine coronary arteries (EC50 values were 21.7 and 30.9 μM, respectively), rat aorta (16.7 and 23.3 μM), and rat mesenteric arteries (22.2 and 16.8 μM). These values are higher than the typical human plasma levels (from tens to low hundreds of nM). Both substances effected vasodilatation, independent of the functional endothelium. The vasodilatory effects were not directly related to K+ channels or the cGMP/PKG pathway, but both flavonoids mentioned blocked vasoconstriction induced by the activation of the L-type Ca2+ channels in a dose-dependent fashion. In conclusion, the vasodilatory effects of the most active compounds from hawthorn are likely mediated by the interference with calcium-dependent vasoconstriction in the vascular smooth muscle cells.

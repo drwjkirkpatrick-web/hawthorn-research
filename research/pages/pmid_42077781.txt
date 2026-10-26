@@ -1,0 +1,9 @@
+Title: Gut-liver axis mediates the ameliorative effects of North Hawthorn polysaccharide on liver inflammation and oxidative stress in hyperlipidemic mice via Nrf2 signaling pathway.
+Journal: Food Sci Biotechnol
+Published: 2026 May 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42077781/
+
+ABSTRACT
+UNLABELLED: Plant polysaccharides have demonstrated significant potential for the management of metabolic diseases. This study investigated the protective effects of polysaccharide from North Hawthorn (NHP) against high-fat diet (HFD)-induced metabolic disorders in mice. Oral NHP administration (200-800 mg/kg/day) for 12 weeks dose-dependently alleviated HFD-induced weight gain, dyslipidemia, hepatic steatosis, and inflammation. Furthermore, NHP ameliorated oxidative stress by reducing MDA levels and enhancing SOD activity, which was mechanistically linked to the activation of the Nrf2/Keap1/HO-1 pathway. 16S rRNA sequencing revealed that NHP administration restored gut microbial diversity and increased the abundance of beneficial bacteria, including Lactobacillus, Bifidobacterium, and Akkermansia muciniphila. Integrated correlation analysis indicated strong associations between these microbiota changes and improved metabolic and inflammatory parameters. These findings demonstrate that NHP alleviates HFD-induced metabolic dysfunction through simultaneous regulation of the gut-liver axis and activation of the Nrf2/Keap1/HO-1 pathway, highlighting its potential as a novel prebiotic agent for managing obesity-related metabolic disorders.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s10068-026-02133-9.

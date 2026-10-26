@@ -1,0 +1,8 @@
+Title: Phytochemical Composition and Multi-Target Biological Activities of Crataegus monogyna: LC-MS/MS, DFT, and Molecular Docking Approaches.
+Journal: Chem Biodivers
+Published: 2026 Feb 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41643173/
+
+ABSTRACT
+In the present paper, antioxidant and enzyme inhibition properties of different extracts of Crataegus monogyna were analyzed. The bioactive phytochemicals of acetone, ethanol and water extracts of C. monogyna were determined through validated LC-MS/MS method. The highest total phenolic (80.92 mg GAE/g) and flavonoid content (51.94 mg RE/g) was observed with the ethanol extract. The best antioxidant capability was observed for ethanol extract in DPPH (334.72 mg TE/g), ABTS (442.58 mg TE/g), CUPRAC (666.09 mg TE/g), FRAP (328.04 mg TE/g), and phosphomolybdenum (2.77 mmol TE/g). In addition, enzyme inhibition properties of different extracts of C. monogyna were checked for acetylcholinesterase (AChE), butyrylcholinesterase (BChE), tyrosinase, amylase, and glucosidase. While the most effective AChE inhibition was observed in ethanol extract (2.92 mg GALAE/g), it was noted that the most effective BChE inhibition was acetone extract (2.34 mg GALAE/g). The best tyrosinase inhibition was detected in the water extract with 79.09 mg KAE/g. The tested extracts exhibited antidiabetic potentials by amylase (0.22-0.29 mmol ACAE/g) and glucosidase inhibition (3.29-3.37 mmol ACAE/g). The chemical reactivities of the dominant molecular components in all extracts were illuminated in the light of DFT calculations and the interaction with related biological systems of these molecular structures were analyzed with the help of molecular docking analyses.

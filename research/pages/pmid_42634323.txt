@@ -1,0 +1,12 @@
+Title: Total Flavonoids from Hawthorn Leaves Alleviate Acute Inflammatory Responses Following Spinal Cord Injury by Downregulating the TLR4/NF-Κb Signaling Pathway.
+Journal: Curr Top Med Chem
+Published: 2026 Aug 06
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42634323/
+
+ABSTRACT
+INTRODUCTION: This study aimed to investigate the anti-inflammatory mechanisms of TFHL in SCI through in vivo and in vitro experiments.
+METHODS: A SCI model was established using Sprague-Dawley rats. TFHL was administered via intraperitoneal injection. Microglial cells were stimulated with lipopolysaccharide (LPS) to induce inflammation, followed by TFHL treatment. Behavioral assessments (BBB scores), histological staining, immunoblotting, and quantitative real-time PCR were performed. These indicators evaluated the effects of TFHL on neuronal survival, inflammatory responses, and associated molecular pathways after SCI.
+RESULTS: TFHL promoted motor function recovery and preserved residual neurons following SCI. Additionally, it significantly inhibited TLR4 complex formation, suppressed NF-κB nuclear translocation, and reduced IL-1β, IL-6, and TNF-α mRNA expression.
+DISCUSSION: This study demonstrated for the first time that TFHL inhibits the TLR4/NF-κB pathway to exert anti-inflammatory and neuroprotective effects after SCI, as indicated by decreased microglial activation and pro-inflammatory cytokine levels. Although causal validation (e.g., TLR4 knockdown) was not performed, biochemical data (p-p65, p-IκBα, IκBα) support pathway inhibition. These findings provide pharmacological support for TFHL as a potential therapeutic candidate for SCI.
+CONCLUSION: TFHL exerts neuroprotective effects by inhibiting the TLR4/NF-κB pathway, and this mechanism at least partially mediates its beneficial effects in SCI.

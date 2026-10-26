@@ -1,0 +1,8 @@
+Title: Antihyperuricemic Effect of Hawthorn Flavonoid Vitexin: LC-MS Analysis, Network Pharmacology, and In Vivo Verification of Molecular Mechanisms.
+Journal: Food Sci Nutr
+Published: 2026 Jun 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42255677/
+
+ABSTRACT
+This study identified vitexin as one of the primary active flavonoids in hawthorn that ameliorate hyperuricemia by targeting the PPARγ/ABCG2 pathway. UPLC-MS/MS analysis indicated 17 flavonoid structures in total flavonoids of hawthorn (TFH), while SwissADME calculation then suggested vitexin as the prime candidate for further mechanistic and pharmacodynamic validation. Network pharmacology and molecular docking predicted PPARγ/ABCG2 as one of the key pathways for these flavonoids, which was confirmed by favorable binding with both PPARγ and ABCG2 and stable complex formation of vitexin with PPARγ in molecular dynamics studies. This hypothesis was validated in an HUA mouse model. Vitexin treatment effectively reduced serum uric acid by inhibiting hepatic XOD and ADA activities, and more notably, markedly upregulating renal and intestinal ABCG2 expression to near-normal levels, along with modulation of OAT1 and GLUT9, thereby significantly enhancing urate excretion. The compound also alleviated HUA-induced liver, kidney, and intestinal injuries, restored epithelial barrier integrity, and reduced oxidative stress and inflammation. These findings demonstrate that vitexin exerts multi-target protective effects against HUA by simultaneously suppressing urate production, enhancing its excretion, and mitigating tissue damage. This mechanism of action is consistent with the predicted pathways and supports its potential as a natural therapeutic candidate.

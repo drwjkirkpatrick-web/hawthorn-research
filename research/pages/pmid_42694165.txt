@@ -1,0 +1,12 @@
+Title: The effect of hawthorn vinegar, black mulberry syrup, and green tea on oral mucositis and oral health-related quality of life in individuals with diabetes: a single-blind, randomized controlled trial.
+Journal: Front Med (Lausanne)
+Published: 2026  
+Publication types: Clinical Trial; Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42694165/
+
+ABSTRACT
+OBJECTIVE: This study was designed as a single-blind randomized controlled trial to investigate the effects of hawthorn vinegar, black mulberry syrup, and green tea on oral mucositis and quality of life related to oral health in individuals with diabetes.
+METHODS: Total of 120 participants were divided into four groups (hawthorn vinegar, black mulberry syrup, green tea, control; n = 30 each) and the study was completed. All participants completed the "Patient Information Form," "Oral Assessment Guide (OAG/ADR)," and "Oral Health-Related Quality of Life Scale (OHQoL-UK)" before the study, on the 7th day, and after the study. In the experimental groups (hawthorn vinegar group, black mulberry syrup group, green tea group). In addition to routine oral mucositis treatment, patients with DM gargled for 1 min with diluted hawthorn vinegar [1 tablespoon (10 cc) mixed with 40 cc of water], pure black mulberry syrup, or green tea solution three times a day for 14 days, 15-20 min before meals.
+RESULTS: Patients in the hawthorn vinegar group showed a decrease in oral mucositis and an increase in oral health-related quality of life at the interim measurement (day 7) and final test (day 14) measurements (p < 0.05). A negative correlation was found between the severity of oral mucositis and quality of life (p < 0.05).
+CONCLUSION: Although there was no difference between hawthorn vinegar and black mulberry syrup, they were found to be more effective than green tea in reducing oral mucositis and improving oral health-related quality of life, and all three complementary treatments were found to be effective.
+CLINICAL TRIAL REGISTRATION: identifier [NCT06481254]. https://register.clinicaltrials.gov/prs/beta/studies/S000E5O000000043/recordSummary.

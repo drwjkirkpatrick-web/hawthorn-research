@@ -1,0 +1,13 @@
+Title: Efficacy of plant extracts in heart failure patients: a systematic review and network meta-analysis.
+Journal: BMC Cardiovasc Disord
+Published: 2026 Jun 12
+Publication types: Journal Article; Systematic Review
+URL: https://pubmed.ncbi.nlm.nih.gov/42277690/
+
+ABSTRACT
+OBJECTIVE: This study aimed to evaluate the therapeutic efficacy of plant extracts in patients with heart failure.
+METHODS: A systematic search was conducted in PubMed, EMBASE, Cochrane Library, and Web of Science to identify randomized controlled trials (RCTs) investigating the effects of plant extracts on heart failure patients. The search period spanned from database inception to June 2024. The methodological quality of the included studies was assessed using the Cochrane Risk of Bias Tool. Statistical analyses were performed using Review Manager 5.3 and Stata 15.1.
+RESULTS: A total of 28 studies involving 3,650 heart failure patients were included. Network meta-analysis examined 15 distinct plant extracts: Panax ginseng and Ophiopogon japonicus extract, Water extract of stem bark of Terminalia arjuna, Astragalus extract, Panax ginseng extract, Red ginseng extract, Astragalus and Codonopsis extract, Hawthorn extract, Red ginseng Ophiopogon japonicus and Schisandra extract, Ginkgo biloba extract, Salvia miltiorrhiza extract, Rhodiola extract, Panax ginseng and Aconite extract, Centaurea behen extract, Oak wood extract, and Berberine extract. Based on the Surface Under the Cumulative Ranking Curve (SUCRA) values, Water extract of stem bark of Terminalia arjunaranked first in Number of patients with improved New York Heart Association (NYHA) classification (80.4%). Salvia miltiorrhizaextract exhibited the highest efficacy in enhancing left ventricular ejection fraction (LVEF) (89.7%), while Oak wood extract demonstrated optimal improvement in quality of life (QoL) (100%). Astragalusextract showed superior efficacy in the six-minute walk test (6MWT) (89.5%).
+CONCLUSION: In summary, our study supports the therapeutic potential of plant extracts for heart failure. Based on SUCRA rankings, they can be effective adjunctive therapies to improve cardiac function, quality of life, and prognosis, with different extracts offering distinct advantages. However, the limited studies for some interventions and scarce direct comparative evidence necessitate cautious interpretation. Future work should prioritize larger, high-quality RCTs for validation.
+TRIAL REGISTRATION: This meta-analysis was conducted in accordance with the Cochrane Handbook and the PROSPERO NMA checklist, and was registered on PROSPERO (Registration No: CRD42024609307).
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1186/s12872-026-05793-x.

@@ -1,0 +1,11 @@
+Title: Telerehabilitation and Face-to-Face Exergame Delivery Modalities to Improve Postural Control in Older Adults: A Randomised Controlled Trial.
+Journal: Med Sci (Basel)
+Published: 2025 Nov 14
+Publication types: Journal Article; Randomized Controlled Trial; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/41283271/
+
+ABSTRACT
+BACKGROUND: A systematic exercise programme using low-cost virtual reality devices can help maintain and improve postural control in older adults. This study aimed to evaluate the effectiveness of two different exergame programme modalities: telerehabilitation (TR) and face-to-face (FF).
+METHODS: A randomised controlled trial was conducted with 16 participants aged 65 to 75. Both groups completed an 18-session exergame intervention over six weeks, with the TR group (exposure) receiving remote sessions and the FF group having in-person (control) sessions with a physiotherapist. Assessments were carried out at baseline, at weeks 2, 4, and 6, with two follow-ups at weeks 8 and 10. Centre of Pressure (CoP) measures in tasks: eyes open (EO), eyes closed (EC), medial-lateral (ML) weight-shifting exergame and anterior-posterior (AP) weight-shifting exergame, and clinical tests were used to evaluate postural control.
+RESULTS: TR and FF significantly reduced the CoPSway-area during EC (TR: p < 0.01; FF: p = 0.01) at 6 weeks and only FF demonstrated a significant reduction during EO (p < 0.01). Post hoc analysis revealed that TR maintained a significant reduction in the secondary outcomes of the CoP at 8 and 10 weeks, while FF did not sustain these effects over time. Between-group comparisons revealed a greater effect of TR in CoPSway-area, and secondary outcomes during the AP weight-shifting task (p < 0.01) at 6 weeks, whereas the FF had a greater effect in secondary CoP outcomes during the ML weight-shifting task (p < 0.01) at 6 weeks.
+CONCLUSION: Both six-week exergame programmes were equally effective at improving postural control. Given the observed specific effects of TR and FF delivery, physiotherapists can consider either modality to suit individual needs and access, or as a complementary approach to maintain and improve postural control in older adults.

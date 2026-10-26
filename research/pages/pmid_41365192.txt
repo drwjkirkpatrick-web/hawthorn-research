@@ -1,0 +1,9 @@
+Title: Novel dual AMPK/NRF2 activation by leucocyanidin from Hawthorn (Crataegus) for mitochondria repair-Targeted therapy of hepatic steatosis.
+Journal: Phytomedicine
+Published: 2026 Jan 
+URL: https://pubmed.ncbi.nlm.nih.gov/41365192/
+
+ABSTRACT
+BACKGROUND AND PURPOSE: Metabolic dysfunction-associated steatotic liver disease (MASLD) represents a global health challenge with limited therapeutic options. This study identified leucocyanidin (Leuc), a bioactive flavonoid from the traditional herb Crataegus pinnatifida (hawthorn), as a novel dual-target therapeutic agent against MASLD.
+METHODS AND RESULTS: We evaluated the effects of Leuc on a mouse model induced by a 60% high-fat diet and a cell model induced by free fatty acids (FFA). Compared to the model group, Leuc treatment dose-dependently significantly reduced liver weight, serum levels of TG and TC, hepatic inflammation markers (IL-6 and TNF-α), as well as cellular TG content. Histological and fluorescence analyses revealed a significant reduction in lipid droplet accumulation. Mechanistically, Leuc exerted its protective effects through two major pathways: (1) By activating the NRF2 antioxidant axis, Leuc attenuated oxidative stress-induced mitochondrial dysfunction and restored fatty acid β-oxidation capacity; (2) Through direct allosteric binding to AMPK, Leuc suppressed fatty acid uptake, inhibited lipogenesis, and enhanced mitochondrial fatty acid transport.
+CONCLUSION: These coordinated mechanisms reestablished hepatic lipid homeostasis, positioning Leuc as a promising dual-target natural compound for MASLD intervention through simultaneous AMPK/NRF2 activation.

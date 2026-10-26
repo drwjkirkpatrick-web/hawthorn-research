@@ -1,0 +1,13 @@
+Title: Safety and Tolerability of Multimodal Therapy (Ivermectin, Doxycycline, Vitamin C, Vitamin D, and Zinc) With or Without Famotidine in Australian Patients With COVID-19 Infection: A Pilot Cohort Trial.
+Journal: Am J Ther
+Published:   
+Publication types: Journal Article; Multicenter Study; Randomized Controlled Trial
+URL: https://pubmed.ncbi.nlm.nih.gov/41693032/
+
+ABSTRACT
+BACKGROUND: In 2020, COVID-19 caused by the SARS-CoV-2 emerged as a global pandemic. Combination therapies for viral illnesses may be more effective than single-agent therapies in reducing symptoms and preventing disease progression. Repurposed drugs may offer cost-effective accessible treatment options while other novel therapies are being developed.
+STUDY QUESTION: To assess the safety and tolerability of a combination of repurposed drugs and supplements in the early therapy of acute nonhospitalized COVID-19 illness.
+STUDY DESIGN: A multicenter pilot cohort study was undertaken. Participants older than 40 years and positive for COVID-19 within 4 days of illness onset received telehealth outpatient care. The multimodal therapy of ivermectin, doxycyline, zinc, vitamin C, and vitamin D 3 was given as core therapy (group-1), or core therapy plus famotidine (group-2) for 10 days in a randomized masked controlled fashion.
+MEASURES AND OUTCOMES: A total of 275 participants, who were either vaccinated (n = 151) or unvaccinated (n = 124) for COVID-19, were randomized into group-1 (n = 137) or group-2 (n = 138). Four participants (1.5%) were hospitalized within the first 28 days.
+RESULTS: No viral rebound was experienced by any participants who took the 10-day therapy. Symptoms were reported daily until day 10, and at days 14, 28, and 90. The addition of famotidine resulted in less fatigue and nasal symptoms at day 14. These 5-component and 6-component interventions (ie, core therapy with and without famotidine) were equally safe and well tolerated.
+CONCLUSIONS: The multimodal therapy for acute COVID-19 was safe and well tolerated. The results justify adequately powered trials of the 5- or 6-component intervention on major early and late outcomes of COVID-19 infections.

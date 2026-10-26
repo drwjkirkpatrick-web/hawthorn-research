@@ -1,0 +1,8 @@
+Title: Ultrasound-Assisted Extraction of Free and Bound Phenolics from Hawthorn (Crataegus azarolus) Leaves and their Antioxidant and Antidiabetic Activities.
+Journal: Plant Foods Hum Nutr
+Published: 2026 May 16
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42141147/
+
+ABSTRACT
+Hawthorn (Crataegus azarolus) leaves are an underutilized plant resource with potential as a source of bioactive phenolic compounds. This study investigated the ultrasound-assisted extraction (UAE) of free and bound phenolics from hawthorn leaves and evaluated their functional properties. The extraction parameters were optimized using response surface methodology (RSM) to maximize the total phenolic content (TPC) and total flavonoid content (TFC). Under optimal conditions, the free phenolic content reached 78.61 mg GAE g- 1 dry weight (DW), whereas the bound phenolic content reached 13.56 mg GAE g- 1 DW, accounting for approximately 15% of the total phenolic content. The free phenolic fraction exhibited higher antioxidant activity than the bound fraction in the ABTS, DPPH, and FRAP assays. Both fractions inhibited α-amylase and α-glucosidase, demonstrating their in vitro enzyme inhibitory potential. These results highlight the importance of evaluating both the free and matrix-bound phenolic fractions, and they support the potential use of hawthorn leaves as a natural source of functional ingredients.

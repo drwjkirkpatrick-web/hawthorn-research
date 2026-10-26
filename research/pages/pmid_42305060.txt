@@ -1,0 +1,8 @@
+Title: Cyanidin-3-O-arabinoside improves high-fat diet-induced glucose and lipid metabolism disorder in mice by restoring fatty acid oxidation and mitochondrial function through CD36/AMPK/PGC-1α.
+Journal: Gen Physiol Biophys
+Published: 2026 May 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42305060/
+
+ABSTRACT
+The peel of Malus doumeri (Big Fruit Hawthorn) is rich in Cyanidin-3-O-arabinoside (C3A), which can attenuate weight gain and adipogenic pathways in obese mice. The mice were treated with a high-fat diet (HFD) to induce glucose and lipid metabolism disorder (GLMD). After 8 weeks, the mice were treated with C3A, and CD36 was highly expressed by AAV8-TBG. The blood glucose, blood lipid, and liver injury status were evaluated. Liver steatosis and fatty acid oxidation (FAO) were detected by pathological staining and Western blot. Transmission electron microscopy and kits detected mitochondrial function, and the CD36/AMPK/PGC-1α proteins were detected. C3A significantly reduced fasting blood glucose (FBG), TC, and ALT levels, and significantly reduced hepatocyte steatosis and oil red O-stained lipid droplets. The FAO-related proteins were promoted, and the number of mitochondria, ATP content, and OXPHOS level were significantly increased. C3A affected the expression of CD36 to regulate the AMPK/PGC-1α axis. However, after CD36 overexpression, abnormal glucose and lipid metabolism, FAO damage, and mitochondrial function damage in mice weakened the improvement effect of C3A on GLMD. C3A activated the CD36/AMPK/PGC-1α pathway to improve HFD-induced FAO damage and mitochondrial dysfunction, thereby protecting glucose and lipid metabolism in mice.

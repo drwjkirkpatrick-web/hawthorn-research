@@ -1,0 +1,8 @@
+Title: Phytochemical investigation and spectral characterization of isolated compounds from Pyracantha crenulata (D. Don) M. Roem (syn. Crataegus crenulata Roxb) leaves: evaluation of antioxidant activity and molecular docking analysis.
+Journal: Nat Prod Res
+Published: 2026 Feb 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39370978/
+
+ABSTRACT
+Pyracantha crenulata (D. Don) M. Roem (syn. Crataegus crenulata Roxb.) is an evergreen shrub in the Rosaceae family, notable for its chemical diversity and biological potential. This study isolates and characterises six compounds (Cc-1 to Cc-6), including four new ones, using repeated column chromatography. Structural elucidation employed IR, UV-vis, 1H and 13 C NMR, and mass spectrometry. The DPPH assay was used to test the antioxidant activity in vitro. Compounds Cc-4, Cc-2, Cc-1, and Cc-5 had IC50 values of 15.734 μg/ml, 51.422 μg/ml, 62.864 μg/ml, and 71.622 μg/ml, in that order. Quantitative phytochemical analysis revealed flavonoid content (22.81 mg/g), tannin content (385.15 mg/g), and total phenolic content (128.78 mg/g). Human cyclin-dependent kinase 2 (CDK2) (PDB ID: 1hck) docked with compound Cc-4, which demonstrated strong antioxidant activity and revealed significant non-bonding interactions. The pkCSM and SwissADME analyses suggested promising drug-like properties for Cc-4, supported by BOILED-Egg diagrams highlighting its therapeutic potential.

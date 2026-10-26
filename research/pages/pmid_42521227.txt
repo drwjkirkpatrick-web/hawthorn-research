@@ -1,0 +1,11 @@
+Title: Does vitamin D supplementation modulate metabolic risk factors of cardiovascular disease? A systematic review and meta-analysis of clinical trials.
+Journal: Asia Pac J Clin Nutr
+Published: 2026 Aug 
+Publication types: Journal Article; Systematic Review; Meta-Analysis
+URL: https://pubmed.ncbi.nlm.nih.gov/42521227/
+
+ABSTRACT
+BACKGROUND AND OBJECTIVES: Vitamin D has been proposed to influence several cardiometabolic risk factors; however, evidence from randomized controlled trials (RCTs) and recent meta-analyses remains inconsistent regarding the magnitude of these effects. This meta-analysis evaluated the effects of vitamin D supplementation on lipid profile, blood pressure, and glycaemic parameters, and explored whether age and baseline serum vitamin D concentrations modified these associations.
+METHODS AND STUDY DESIGN: A systematic review and meta-analysis of RCTs was conducted to compare oral vitamin D supplementation with placebo in adults. PubMed, the Cochrane Library, and ClinicalTrials.gov were searched systematically. Risk of bias was as-sessed using the Cochrane risk-of-bias tool. Pooled effect sizes with 95% confidence intervals (CIs) were estimated using random-effects models.
+RESULTS: A total of 14,051 abstracts were identified, and 45 RCTs were included in the final analysis. Vitamin D supplementation significantly reduced low-density lipoprotein cho-lesterol (LDL-C) by 0.136 mmol/L (95% CI: -0.215, -0.056), systolic blood pressure (SBP) by 2.79 mm Hg (95% CI: -4.65, -0.94), fasting blood glucose (FBG) by 0.11 mmol/L (95% CI: -0.19, -0.04), and hemoglobin A1c (HbA1c) by 0.164% (95% CI: -0.32, -0.01) compared with placebo. Subgroup analyses showed reductions in SBP and LDL-C among participants aged ≥55 years, whereas FBG was reduced in those aged <55 years. While favorable effects on FBG and HbA1c were observed with a baseline blood level of vitamin D of less than 50 nmol/L.
+CONCLUSIONS: Vitamin D supplementation may modestly improve selected cardiomet-abolic risk factors. Age and baseline vitamin D status may influence these effects, although their clinical sig-nificance remains uncertain. Further well-designed RCTs are needed.

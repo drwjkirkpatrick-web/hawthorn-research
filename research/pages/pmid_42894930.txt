@@ -1,0 +1,11 @@
+Title: Molecular mechanism of total flavonoids of hawthorn leaves in spinal cord injury treatment: A combined network pharmacology and experimental study.
+Journal: Histol Histopathol
+Published: 2026 Oct 19
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/42894930/
+
+ABSTRACT
+BACKGROUND AND OBJECTIVE: Spinal cord injury (SCI) is a devastating neurological disorder characterized by irreversible motor and sensory dysfunction, largely driven by secondary injury mechanisms including oxidative stress, inflammation, and apoptosis. Total flavonoids of hawthorn leaves (TFHL), a traditional Chinese medicine, have demonstrated antioxidant and anti-inflammatory properties; however, their therapeutic effects and mechanisms in SCI remain unclear.
+METHODS: Network pharmacology was employed to identify the active compounds, potential targets, and key signaling pathways of TFHL in SCI through target prediction, protein-protein interaction analysis, and GO and KEGG enrichment analyses. Experimental validation was performed using a rat SCI model, LPS-stimulated BV-2 microglial cells, and RAW264.7 macrophages. Functional recovery was assessed by BBB scoring, while histopathological changes, ultrastructural alterations, inflammatory cytokine expression, and MAPK pathway activation were evaluated using H&amp;E staining, transmission electron microscopy, RT-qPCR, and western blotting.
+RESULTS: Network pharmacology analysis identified 15 active compounds and 69 overlapping therapeutic targets, mainly enriched in pathways related to inflammation, oxidative stress, apoptosis, and neuronal survival, including MAPK, PI3K-Akt, TNF, and NF-kB signaling pathways. In vivo, TFHL treatment significantly improved locomotor recovery, alleviated histological damage, preserved mitochondrial structure, and reduced the expression of pro-inflammatory cytokines following SCI. In vitro, TFHL markedly suppressed LPS-induced activation of the MAPK pathway in microglial cells.
+CONCLUSION: TFHL improves functional and histopathological outcomes in SCI models and attenuates inflammatory activation. These effects are consistent with multi-pathway regulation predicted by network pharmacology and are supported, at least in part, by MAPK pathway suppression, warranting further mechanistic and translational studies.

@@ -1,0 +1,8 @@
+Title: Integrated genomic and transcriptomic analyses reveal the genetic and molecular mechanisms underlying hawthorn peel color and seed hardness diversity.
+Journal: J Genet Genomics
+Published: 2025 Dec 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40220858/
+
+ABSTRACT
+Hawthorn (Crataegus pinnatifida) fruit peel color and seed hardness are key traits that significantly impact economic value. We present here the high-quality chromosome-scale genomes of two cultivars, including the hard-seed, yellow-peel C. pinnatifida "Jinruyi" (JRY) and the soft-seed, red-peel C. pinnatifida "Ruanzi" (RZ). The assembled genomes comprising 17 chromosomes are 809.1 Mb and 760.5 Mb in size, achieving scaffold N50 values of 48.5 Mb and 46.8 Mb for JRY and RZ, respectively. Comparative genomic analysis identifies 3.6-3.8 million single nucleotide polymorphisms, 8.5-9.3 million insertions/deletions, and approximately 30 Mb of presence/absence variations across different hawthorn genomes. Through integrating differentially expressed genes and accumulated metabolites, we filter candidate genes CpMYB114 and CpMYB44 associated with differences in hawthorn fruit peel color and seed hardness, respectively. Functional validation confirms that CpMYB114-CpANS regulates anthocyanin biosynthesis in hawthorn peels, contributing to the observed variation in peel color. CpMYB44-CpCOMT is significantly upregulated in JRY and has been shown to promote lignin biosynthesis, resulting in the distinction in seed hardness. Overall, this study reveals new insights into understanding of distinct peel pigmentation and seed hardness in hawthorn and provides an abundant resource for molecular breeding.
